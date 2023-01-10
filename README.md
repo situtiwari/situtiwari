@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditi Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align ="right" alt="Error 404!!!!" width = "400" src ="https://media.tenor.com/BtnxhGOrFvYAAAAC/pandas-cute.gif">
+<img align ="right" alt="Error 404!!!!" width = "250" src ="https://media.tenor.com/BtnxhGOrFvYAAAAC/pandas-cute.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=situtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="situtiwari" /> </p>
 
