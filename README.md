@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aditi Tiwari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <img align ="right" alt="Error 404!!!!" width = "250" src ="https://media.tenor.com/BtnxhGOrFvYAAAAC/pandas-cute.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=situtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="situtiwari" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, Data Analytics**
+- 🌱 I’m currently learning **Software developement, Data Science, and Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-cf145.web.app/](https://portfolio-cf145.web.app/)
 
-- 💬 Ask me about **Python, ML, React, DSA, Dynamic Programming**
+- 💬 Ask me about **Python, DSA, MERN, ML, DL**
 
 - 📫 How to reach me **adititiwari94919@gmail.com**
 
