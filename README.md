@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=situtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="situtiwari" /> </p>
 
-- 🌱 I’m currently learning **Software developement, Data Science, and Data Analytics**
+- 🌱 I’m currently learning **Software developement**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-cf145.web.app/](https://portfolio-cf145.web.app/)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **adititiwari94919@gmail.com**
 
-- ⚡ Fun fact **I am an Engineer😂😂😂**
+- ⚡ Fun fact **I am a Software Engineer😂😂😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
