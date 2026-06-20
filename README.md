@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working as a **Software developement Engineer (SDE1) at Accenture**
 
-- 👨‍💻 All of my projects are available at [https://portfolio/]([https://portfolio-cf145.web.app/](https://situtiwari.github.io/Portfolio/))
+- 👨‍💻 All of my projects are available at [https://situtiwari.github.io/Portfolio/]([https://situtiwari.github.io/Portfolio/])
 
 - 💬 Ask me about **Java, Spring Boot, Messaging, REST API, Microservices, Distributed System, System Design, Data Structures, Algorithm, Backend Development, OpenAI**
 
