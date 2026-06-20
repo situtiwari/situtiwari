@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=situtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="situtiwari" /> </p>
 
-- 🌱 I’m currently learning **Software developement**
+- 🌱 I’m currently working as a **Software developement Engineer (SDE1) at Accenture**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-cf145.web.app/](https://portfolio-cf145.web.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio/]([https://portfolio-cf145.web.app/](https://situtiwari.github.io/Portfolio/))
 
-- 💬 Ask me about **Python, DSA, MERN, ML, DL**
+- 💬 Ask me about **Java, Spring Boot, Messaging, REST API, Microservices, Distributed System, System Design, Data Structures, Algorithm, Backend Development, OpenAI**
 
 - 📫 How to reach me **adititiwari94919@gmail.com**
 
